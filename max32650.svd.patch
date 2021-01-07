@@ -1,0 +1,18 @@
+diff --git a/max32650.svd b/max32650.svd
+index 3cf9a47..7c37274 100644
+--- a/max32650.svd
++++ b/max32650.svd
+@@ -13297,13 +13297,6 @@
+               <bitWidth>1</bitWidth>
+               <access>read-only</access>
+             </field>
+-            <field>
+-              <name>SDR104</name>
+-              <description>SDR104 Support.</description>
+-              <bitOffset>1</bitOffset>
+-              <bitWidth>0</bitWidth>
+-              <access>read-only</access>
+-            </field>
+             <field>
+               <name>DDR50</name>
+               <description>DDR50 Support.</description>

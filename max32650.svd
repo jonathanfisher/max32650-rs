@@ -13298,13 +13298,6 @@
               <access>read-only</access>
             </field>
             <field>
-              <name>SDR104</name>
-              <description>SDR104 Support.</description>
-              <bitOffset>1</bitOffset>
-              <bitWidth>0</bitWidth>
-              <access>read-only</access>
-            </field>
-            <field>
               <name>DDR50</name>
               <description>DDR50 Support.</description>
               <bitOffset>2</bitOffset>
